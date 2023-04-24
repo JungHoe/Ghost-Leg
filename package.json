@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.5.0",
+    "chrome-types": "^0.1.187",
     "react-kawaii": "^0.18.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.0"
